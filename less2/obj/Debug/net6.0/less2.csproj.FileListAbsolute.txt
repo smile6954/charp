@@ -1,0 +1,15 @@
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/less2.csproj.AssemblyReference.cache
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/less2.GeneratedMSBuildEditorConfig.editorconfig
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/less2.AssemblyInfoInputs.cache
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/less2.AssemblyInfo.cs
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/less2.csproj.CoreCompileInputs.cache
+/home/smile/Documents/charp/less2/bin/Debug/net6.0/less2
+/home/smile/Documents/charp/less2/bin/Debug/net6.0/less2.deps.json
+/home/smile/Documents/charp/less2/bin/Debug/net6.0/less2.runtimeconfig.json
+/home/smile/Documents/charp/less2/bin/Debug/net6.0/less2.dll
+/home/smile/Documents/charp/less2/bin/Debug/net6.0/less2.pdb
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/less2.dll
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/refint/less2.dll
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/less2.pdb
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/less2.genruntimeconfig.cache
+/home/smile/Documents/charp/less2/obj/Debug/net6.0/ref/less2.dll
