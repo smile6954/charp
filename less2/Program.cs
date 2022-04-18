@@ -1,4 +1,3 @@
-﻿Console.WriteLine("VVedite imya");
-string username = Console.ReadLine();
-Console.Write("Hello, ");
-Console.WriteLine(username);
+﻿double numberA = 5;
+double numberB = 10;
+Console.WriteLine(numberA/numberB);
